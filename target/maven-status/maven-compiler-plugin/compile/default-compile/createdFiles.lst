@@ -1,11 +1,14 @@
 br/com/rnascimento/spark/bigdata/model/City.class
 br/com/rnascimento/spark/bigdata/repository/StateRepository.class
 br/com/rnascimento/spark/bigdata/repository/CityRepository.class
+br/com/rnascimento/spark/bigdata/corsfilter/CorsFilter.class
+br/com/rnascimento/spark/bigdata/services/StateService.class
 br/com/rnascimento/spark/bigdata/responses/ResponseModel.class
-br/com/rnascimento/spark/bigdata/CorsFilter/CorsFilter.class
 br/com/rnascimento/spark/bigdata/model/Country.class
+br/com/rnascimento/spark/bigdata/services/CountryService.class
 br/com/rnascimento/spark/bigdata/model/State.class
 br/com/rnascimento/spark/bigdata/model/Country$CountryBuilder.class
+br/com/rnascimento/spark/bigdata/services/CityService.class
 br/com/rnascimento/spark/bigdata/App.class
 br/com/rnascimento/spark/bigdata/repository/CountryRepository.class
 br/com/rnascimento/spark/bigdata/transformer/JsonTransformer.class
